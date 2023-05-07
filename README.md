@@ -1,1 +1,3 @@
 # storefront
+
+*simple django app*
